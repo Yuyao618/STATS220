@@ -1,0 +1,21 @@
+,Fire Name(Cause),County,Acres (Hectares),Start date,Structures,Deaths
+1.,August Complex(Lightning),"Mendocino,Humboldt,Trinity,Tehama,Glenn,Lake, &Colusa","1,032,648 (417,898)",August 2020,935,1
+2.,Dixie(Powerlines),"Butte,Plumas,Lassen,Shasta&Tehama","963,309 (389,837)",July 2021,"1,311",1
+3.,Mendocino Complex(Human Related),"Colusa,Lake,Mendocino, &Glenn","459,123 (185,800)",July 2018,280,1
+4.,Park(Arson),"Butte,Plumas,Shasta, &Tehama","429,603 (173,854)",July 2024,709,0
+5.,SCU Lightning Complex(Lightning),"Stanislaus,Santa Clara,Alameda,Contra Costa, &San Joaquin","396,625 (160,508)",August 2020,225,0
+6.,Creek(Undetermined),Fresno&Madera,"379,895 (153,738)",September 2020,858,0
+7.,LNU Lightning Complex(Lightning/Arson),"Napa,Solano,Sonoma,Yolo,Lake, &Colusa","363,220 (146,990)",August 2020,"1,491",6
+8.,North Complex(Lightning),"Butte,Plumas&Yuba","318,935 (129,068)",August 2020,"2,352",15
+9.,Thomas(Powerlines),Ventura&Santa Barbara,"281,893 (114,078)",December 2017,"1,060",2
+10.,Cedar(Human Related),San Diego,"273,246 (110,579)",October 2003,"2,820",15
+11.,Rush(Lightning),Lassen,"271,911 (110,038)(+43,666 (17,671) in Nevada)",August 2012,0,0
+12.,Rim(Human Related),Tuolumne,"257,314 (104,131)",August 2013,112,0
+13.,Zaca(Human Related),Santa Barbara,"240,207 (97,208)",July 2007,1,0
+14.,Carr(Human Related),Shasta&Trinity,"229,651 (92,936)",July 2018,"1,614",8
+15.,Monument(Lightning),Trinity,"223,124 (90,295)",August 2021,28,0
+16.,Caldor(Bullet),"Alpine,Amador, &El Dorado","221,835 (89,773)",August 2021,"1,311",1
+17.,Matilija(Undetermined),Ventura,"220,000 (89,000)",September 1932,0,0
+18.,River Complex(Lightning),Siskiyou&Trinity,"199,359 (80,678)",July 2021,122,0
+19.,Witch(Powerlines),San Diego,"197,990 (80,120)",October 2007,"1,650",2
+20.,Klamath Theatre Complex(Lightning),Siskiyou,"192,038 (77,715)",June 2008,0,2
